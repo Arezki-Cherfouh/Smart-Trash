@@ -176,7 +176,3 @@ WiFi.begin(ssid, password);
 ## License
 
 MIT - Free for learning and modification
-
-```
-
-```
